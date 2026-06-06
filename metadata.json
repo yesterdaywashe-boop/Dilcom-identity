@@ -1,0 +1,6 @@
+{
+  "name": "Dlicom Passport",
+  "description": "The official core identity layer and credentials platform for the Dlicom ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
